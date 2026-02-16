@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LOCOBOT Architect",
+  "description": "A hyper-futuristic AI Autonomous Agent from 2045 designed to architect web apps, games, and automation scripts with a premium bento-grid interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
